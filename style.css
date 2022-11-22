@@ -9,7 +9,7 @@ body { width: 100vw; height: 100vh; background-image: url("bg_img.jpg"); backgro
 
 .right-nav img{margin: 1rem; width: 2rem; height: fit-content;}
 
-.center_menu {display: flex; justify-content: center; gap: 1rem; padding-top: 10vw; }
+.center_menu {display: flex; justify-content: center; gap: 1rem; }
 
 .center_menu .card_menu{width: 40vw; height: 40vw; background-color: #ffffffa7; border-radius: 1rem; font-size: 4rem; display: grid; justify-items: center; align-content: center;}
 
