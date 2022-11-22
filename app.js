@@ -19,7 +19,7 @@ ctx.lineCap = "round";
 let isPainting = false;
 let isFilling = false;
 
-let url = "/bg_write.jpg";
+let url = "MISOM/bg_write.jpg";
 const image = new Image()
 image.src = url;
 image.onload = function(){
